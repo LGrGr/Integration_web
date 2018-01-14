@@ -1,0 +1,444 @@
+
+
+@font-face {
+
+    font-family: "GothamRounded-Book.otf";
+    src: url("assets/polices/GothamRounded-Book.otf");
+
+}
+
+@font-face {
+
+    font-family: "GothamRounded-Medium.otf";
+    src: url("assets/polices/GothamRounded-Medium.otf");
+
+}
+
+@font-face {
+
+    font-family: "GothamRounded-MediumItalic.otf";
+    src: url("assets/polices/GothamRounded-MediumItalic.otf");
+
+}
+
+
+header {
+    background-image: url(assets/img/image_header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 780px;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.titre {
+    margin-top: 254px;
+    margin-bottom: 0%;
+}
+
+.titre_header {}
+
+#days {
+    color: #8c9398;
+}
+
+#codrops {
+    font-family: "GothamRounded-MediumItalic.otf";
+
+}
+
+#sous-titre {
+    color: #a9afb4;
+    font-size: 14px;
+    padding-bottom: 68px;
+}
+
+#consequat {
+
+    color: black;
+    font-family: "GothamRounded-Medium.otf";
+
+}
+
+h1
+    {
+    margin: 0%;
+    font-family: "GothamRounded-Book.otf";
+    font-family: "GothamRounded-Book.otf";
+    font-size: 40px;
+    padding-bottom: 32px;
+
+}
+
+.menu {
+    padding-top: 62px;
+}
+
+.bouton {
+    border-radius: 6px;
+    background-color: #3dc9b3;
+    border-color: #3dc9b3;
+    color: white;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    padding-left: 34px;
+    padding-right: 34px;
+
+}
+
+.creative_div {
+    background-color: #f3f5f8;
+    background-size: cover;
+    margin-right: 0%;
+    margin-left: 0%;
+
+}
+
+.creative_titre {
+    margin: 0%;
+    padding-top: 115px;
+    padding-bottom: 24px;
+    font-family: "GothamRounded-Medium.otf";
+    font-size: 15px;
+}
+
+.creative_texte {
+    padding-bottom: 130px;
+    font-family: "GothamRounded-Medium.otf";
+    color: #8c9398;
+}
+
+.img-responsive {
+    padding-bottom: 70px;
+    display: inline-block;
+}
+
+.titre_love_what {
+    padding-top: 103px;
+    padding-bottom: 88px;
+}
+
+.ordinateur,
+.balise,
+.coeur {
+    padding-bottom: 55px;
+}
+
+.digital,
+.web_development,
+.love_you {
+    font-size: 14px;
+    font-family: "GothamRounded-Medium.otf";
+    padding-bottom: 55px;
+}
+
+.tiret-vert {
+    padding-bottom: 30px;
+}
+
+.texte3 {
+    font-family: "GothamRounded-Medium.otf";
+    color: #8c9398;
+    padding-bottom: 125px;
+}
+
+.photo_mobile {
+    width: 800px;
+    height: 700px;
+    padding: 0%;
+}
+
+.design_specialist {
+    background-image: url(assets/img/fond_mobile.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position : center;
+    height: 700px;
+    margin: 0;
+}
+
+.resdes {
+
+    height: 700px;
+
+    margin-right: 0px;
+
+    padding-top: 141px;
+    padding-left: 0px;
+    padding-right: 25px;
+
+}
+
+.titre_responsive {
+    font-family: "GothamRounded-Medium.otf";
+    font-size: 15px;
+    color: black;
+    padding-bottom: 31px;
+
+}
+
+.fleche_responsive {
+   /* width: 427px;*/
+    padding-bottom: 50px;
+}
+
+.responsive {
+    font-family: "GothamRounded-Medium.otf";
+    font-size: 15px;
+    color: #928c90;
+}
+
+.text_responsive {
+    font-family: "GothamRounded-Medium.otf";
+    font-size: 15px;
+    color: #928c90;
+    padding-bottom: 131px;
+}
+
+.slider_responsive {
+    padding-bottom: 131px;
+}
+
+.plantes {
+    background-image: url(assets/img/bg_plantes.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    margin: 0%;
+
+}
+
+.ignite {
+    background-image: url(assets/img/ignite_fond.png);
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    color: white;
+}
+
+
+
+.titre_problems {
+    padding-top: 78px;
+    font-size: 30px;
+    font-family: "GothamRounded-Medium.otf";
+}
+
+.sous_titreGot {
+    padding-top: 33px;
+    font-size: 20px;
+    font-family: "GothamRounded-Medium.otf";
+}
+
+#design {
+    font-family: "GothamRounded-MediumItalic.otf";
+    font-size: 20px;
+}
+
+.fleche_got {
+    padding-top: 45px;
+    padding-bottom: 51px;
+}
+
+.troisImages {
+    padding-top: 101px;
+}
+
+.viewMore,
+.ordi_cafe,
+.chien {
+    font-family: "GothamRounded-Medium.otf";
+    font-size: 15px;
+}
+
+.creative_minds,
+.think_alive,
+.pixel_perfection {
+    padding-top: 45px;
+    font-family: "GothamRounded-Medium.otf";
+    font-size: 15px;
+
+}
+
+.tiret-vertcreative {
+    padding-top: 20px;
+    padding-bottom: 33px;
+}
+
+.text_creative {
+    padding-bottom: 75px;
+    font-family: "GothamRounded-Medium.otf";
+    font-size: 15px;
+    color: #ced1d3;
+}
+
+.slider_creative {
+    padding-bottom: 110px;
+    width: 52px;
+}
+
+.ignite {
+    height: 200px;
+    padding-top: 60px;
+}
+
+.titre-weAre {
+    padding-top: 86px;
+    padding-bottom: 26px;
+
+}
+
+.team_ligne {
+    padding-bottom: 60px;
+}
+
+.jon_nom,
+.jamie_nom,
+.cersei_nom {
+    padding-bottom: 18px;
+    font-family: "GothamRounded-Medium.otf";
+    font-size: 15px;
+}
+
+.jon_image,
+.jamie_image,
+.cersei_image {
+    padding-bottom: 57px;
+}
+
+.equipe_tiret {
+    padding-bottom: 34px;
+}
+
+.text_portfolio {
+    padding-bottom: 39px;
+    font-family: "GothamRounded-Medium.otf";
+    font-size: 15px;
+    color: #928c90;
+}
+
+.rsx_portfolio {
+    padding-bottom: 87px;
+}
+
+.slider-portfolio {
+    padding-bottom: 106px;
+ 
+}
+
+.subscribe {
+    background-image: url(assets/img/fond_form.png);
+    background-size: cover;
+    height: 450px;
+
+    color: white;
+
+
+}
+
+.subscribe_div {}
+
+.cadre_input {
+    height: 66px;
+    width: 350px;
+
+}
+
+.bouton_send {
+    background-color: #3dc9b3;
+    height: 66px;
+    width: 100px;
+    border-color: #3dc9b3;
+    border: 0px;
+}
+
+.titre_subscribe {
+    font-family: "GothamRounded-Medium.otf";
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.avion {
+    padding-top: 120px;
+    padding-bottom: 24px;
+}
+
+.fleche_haut {
+    margin-top: 125px;
+}
+
+.drop_us {
+    background-color: #f3f5f8;
+}
+
+.titre_drop {
+    font-size: 15px;
+    font-family: "GothamRounded-Medium.otf";
+    padding-top: 100px;
+    padding-bottom: 25px;
+}
+
+.fleche_dropUp {
+    padding-bottom: 100px;
+}
+
+.image_contacts {
+    padding-bottom: 96px;
+}
+
+.rsx_drop {
+    padding-bottom: 110px;
+}
+
+
+footer {
+    background-color: #242830;
+    color: #8e959c;
+    padding: 0px;
+    margin: 0px;
+    font-family: "GothamRounded-Book.otf";
+    font-size: 15px;
+
+}
+
+.terms_designed {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 57px;
+    padding-bottom: 50px;
+}
+
+@media (max-width: 480px) {
+
+    .troisImages{
+        text-align: center;
+
+    }
+    .texte3 {
+
+    padding-bottom: 50px;
+    padding-left: 5px; 
+    padding-right: 5px; 
+}
+    
+    .resdes {
+
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+    .design_specialist{
+       
+        background-image: none;  
+    }
+    
+    .terms_designed{
+        text-align: center;
+    }
+
+}
+
+
